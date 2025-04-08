@@ -13,7 +13,7 @@
 
 ## Project Link
 
-#### You can reach my project from [here](https://reactjs-ai-summarizer.vercel.app/) 👈
+#### You can reach my project from [here](https://ai-summarizer-three-mocha.vercel.app/) 👈
 
 ## Project Skeleton
 
